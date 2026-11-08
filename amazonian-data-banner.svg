@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-labelledby="title desc" width="1280" height="340" viewBox="0 0 1280 340">
+  <title id="title">Wagner Correa Cardoso. Data, Biodiversity and Society.</title>
+  <desc id="desc">A minimalist Amazon-inspired digital landscape combining river pathways, leaves and nodes representing ecological data.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#09241F"/>
+      <stop offset="0.58" stop-color="#103E34"/>
+      <stop offset="1" stop-color="#0D302B"/>
+    </linearGradient>
+    <linearGradient id="river" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#74D8BC" stop-opacity="0.05"/>
+      <stop offset="0.52" stop-color="#8BD9C9" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#C7E8BD" stop-opacity="0.28"/>
+    </linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#9ED1B5" opacity="0.13"/>
+    </pattern>
+    <clipPath id="rightclip"><rect x="830" width="450" height="340"/></clipPath>
+  </defs>
+  <rect width="1280" height="340" fill="url(#bg)"/>
+  <rect width="1280" height="340" fill="url(#dots)"/>
+  <path d="M0 304 C265 291 380 355 639 312 C896 271 1092 272 1280 310" fill="none" stroke="#B8E3D0" stroke-width="1.3" opacity="0.13"/>
+  <path d="M0 318 C283 294 399 371 657 323 C888 283 1118 296 1280 320" fill="none" stroke="#B8E3D0" stroke-width="1" opacity="0.12"/>
+  <!-- Ecological river-meander motif and data points -->
+  <g clip-path="url(#rightclip)">
+    <path d="M1340 34 C1134 -8 1080 99 1171 143 C1235 174 1200 219 1087 216 C951 213 948 295 1123 314" fill="none" stroke="url(#river)" stroke-width="30" stroke-linecap="round" opacity="0.42"/>
+    <path d="M1330 33 C1128 -8 1081 100 1170 143 C1235 177 1200 218 1087 217 C951 214 947 295 1123 314" fill="none" stroke="#91DFCF" stroke-width="2" stroke-linecap="round" opacity="0.8"/>
+    <path d="M973 0 C927 62 1005 104 1018 151 S951 233 905 272 S911 336 942 366" fill="none" stroke="#A4D7B0" stroke-width="1.8" opacity="0.36" stroke-dasharray="4 9"/>
+    <g fill="none" stroke="#9ECDB7" stroke-width="1.3" opacity="0.43">
+      <path d="M1018 74 L1105 98 L1170 143 L1249 103"/>
+      <path d="M1105 98 L1054 191 L1087 217 L1189 246"/>
+      <path d="M1054 191 L968 219 L905 272 L1004 306 L1123 314"/>
+      <path d="M968 219 L922 150 L1018 74"/>
+    </g>
+    <g fill="#B4E6CB">
+      <circle cx="1018" cy="74" r="5"/><circle cx="1105" cy="98" r="3.5"/>
+      <circle cx="1170" cy="143" r="5"/><circle cx="1249" cy="103" r="3.5"/>
+      <circle cx="1054" cy="191" r="5"/><circle cx="1087" cy="217" r="3.5"/>
+      <circle cx="1189" cy="246" r="5"/><circle cx="968" cy="219" r="3.5"/>
+      <circle cx="922" cy="150" r="3"/><circle cx="905" cy="272" r="5"/>
+      <circle cx="1004" cy="306" r="3.5"/><circle cx="1123" cy="314" r="5"/>
+    </g>
+    <!-- Botanical leaf geometry -->
+    <g opacity="0.62" fill="none" stroke="#B3D6A5" stroke-width="1.5" stroke-linecap="round">
+      <path d="M1195 276 Q1178 232 1214 199 Q1235 245 1195 276Z"/>
+      <path d="M1195 276 Q1227 249 1255 264 Q1224 291 1195 276Z"/>
+      <path d="M1195 276 L1214 199 M1195 276 L1255 264"/>
+    </g>
+  </g>
+  <rect x="50" y="57" width="3" height="215" rx="1.5" fill="#A9DBA5" opacity="0.7"/>
+  <text x="78" y="98" fill="#BFE2CF" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="4" font-weight="700">RESEARCH · TECHNOLOGY · AMAZONIA</text>
+  <text x="76" y="168" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="47" font-weight="700" letter-spacing="0.5">Wagner Correa Cardoso</text>
+  <text x="78" y="216" fill="#B9E4D0" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="400" letter-spacing="1.0">Data · Biodiversity · Society</text>
+  <text x="78" y="263" fill="#A5C9B8" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="0.5">Artificial intelligence for ecological and socioenvironmental research</text>
+  <text x="78" y="310" fill="#86B9A6" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2">PARÁ · BRAZILIAN AMAZON</text>
+</svg>
