@@ -1,6 +1,6 @@
 <!-- GitHub profile README | Repository must be named WagnerCorrey/WagnerCorrey -->
 <p align="center">
-  <img src="assets/amazonian-data-banner.svg" alt="Wagner Correa Cardoso | Data, Biodiversity & Society | Amazon-inspired illustration of a river and data networks" width="100%" />
+  <img src="amazonian-data-banner.svg" alt="Wagner Correa Cardoso | Data, Biodiversity & Society | Amazon-inspired illustration of a river and data networks" width="100%" />
 </p>
 
 <p align="center">
